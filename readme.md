@@ -19,5 +19,3 @@ dva 首先是一个基于 redux 和 redux-saga 的数据流方案，然后为了
 12. dva redux-actions
 
 ## 视频地址
-链接:https://pan.baidu.com/s/1IdN-cLOTHDd5Bozm5p2DXA  密码:639u
-
